@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.learn_spring</groupId>
-	<artifactId>learn_maven_spring</artifactId>
+	<artifactId>learn_maven_spring_xml</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<dependencies>
